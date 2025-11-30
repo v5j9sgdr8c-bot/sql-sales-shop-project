@@ -20,6 +20,13 @@ This project is a full retail shop SQL database created to demonstrate analytica
 ⦁	Payment analytics
 ⦁	Supplier profitability
 ⦁	Warehouse value
+## Key SQL Concepts Used
+- INNER JOIN, LEFT JOIN
+- GROUP BY, HAVING
+- Aggregate functions (SUM, COUNT, AVG)
+- Subqueries
+- CASE expressions
+
 🚀 How to Run
 1.	Load schema files.
 2.	Insert sample data.
